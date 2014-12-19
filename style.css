@@ -1,0 +1,24 @@
+body{
+	background-color: #535B6B;
+	background-image: url(stripes.png), url(background.jpg);
+	background-repeat: repeat-x, no-repeat;
+	background-size: auto, cover;
+	border: 0;
+	color: white;
+	font-family: Avant Garde, sans-serif;
+	font-size: large;
+	font-weight: 100;
+	margin-left: 150px;
+	margin-top: 400px;
+}
+hr{
+	border-color: #F18181;
+	width: 50px;
+	margin-top: auto;
+	margin-bottom: auto;
+	margin-left: 5px
+}
+a{
+	
+
+}
